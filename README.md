@@ -1,7 +1,8 @@
 # Windows, Linux, MacOS, Termux
 
 # How to Use
-```git clone https://github.com/bunnyhop-dev/discord_nuker
+```bash
+git clone https://github.com/bunnyhop-dev/discord_nuker
 cd discord_nuker
 python discord_nuker.py
 ```
