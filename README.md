@@ -12,3 +12,5 @@ python discord_nuker.py
 Go to discord developer portal and Create Application
 Click to your application and go to bot on left side panel and click reset token, copy your bot token and paste it to script
 ```
+
+![test](https://github.com/bunnyhop-dev/discord_nuker/blob/main/showcase.png?raw=true)
